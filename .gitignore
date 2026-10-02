@@ -1,0 +1,7 @@
+target
+db
+dist
+reports/*.txt
+cmd/tasks-server/tasks-server.exe
+cmd/tasks-server/tasks-server
+.env
